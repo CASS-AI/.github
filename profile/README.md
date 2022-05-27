@@ -1,5 +1,7 @@
 # Cassandra AI Event
 Cassandra Artificial Intelligence event aims to present certain aspects of artificial intelligence. The event is hosted by Isfahan University students and will take place over two days on sunday and monday May 29 and May 30, 2022 at 16:00 GMT+4:30.  
+ 
+ **Registration**: https://evand.com/events/cass-ai-day
 
 ## What are we planning todo?
 We're going to talk about the aspects of Artificial Intelligence listed below:
