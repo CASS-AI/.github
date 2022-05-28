@@ -2,12 +2,15 @@
 امروزه واژه هوش‌ مصنوعی به گوش همه آشناست و خیلی از ما مشتاق یادگیری بیشتر با دانش هوش مصنوعی و زیرشاخه‌های متنوع آن هستیم. اما کمتر افرادی هستند که در فرآیند انتخاب زیرشاخه مناسب‌شان، مسیر درستی را انتخاب کرده‌اند. در همین راستا، ما در انجمن هوش مصنوعی با همکاری جمعی از دانشجویان برتر گرایش هوش مصنوعی، با برگزاری رویداد بزرگ CASS AI Day اقدام به معرفی اصلی‌ترین حوزه‌های هوش مصنوعی می‌نماییم.
 
 ## حوزه های مورد بحث
+**روز اول:**
+- مهدی دارونی: پردازش زبان طبیعی
+- هاجر مظاهری: آنالیز احساسات در پردازش زبان طبیعی 
+- یاسین فخار: پردازش تصویر و کاربردهای آن
+
+**روز دوم:**
 - امیرمسعود سلطانی: معرفی یادگیری عمیق هندسی  
 - سید محمد امین دادگر: درک چرایی تصمیم سیستم‌های هوش مصنوعی 
 - نیلوفر علیزادگان: سیستم تشخیص چهره دوربین‌های نظارتی 
-- یاسین فخار: پردازش تصویر و کاربردهای آن 
-- مهدی دارونی: پردازش زبان طبیعی
-- هاجر مظاهری: آنالیز احساسات در پردازش زبان طبیعی 
 ## زمان و مکان برگزاری
 این رویداد به صورت حضوری و مجازی - طی روزهای یکشنبه و دوشنبه هشتم و نهم خردادماه در  تالار دکتر برآنی، واقع در ساختمان انصاری برگزار می‌شود. برای ثبت نام از لینک روبرو می‌توانید استفاده کنید.
 https://evand.com/events/cass-ai-day
@@ -19,12 +22,16 @@ Cassandra Artificial Intelligence event aims to present certain aspects of artif
 
 ## What are we planning todo?
 We're going to talk about the aspects of Artificial Intelligence listed below:
+
+**Day One:**
+- Natural Language Processing by [Mehdi Darooni](https://github.com/mhdi1997)
+- Sentiment analysis in NLP [Hajar Mazaheri](https://github.com/hajar817)
+- Image processing and its applications [Yasin Fakhar](https://github.com/yasinfakhar)
+
+**Day Two:**
 - An Introduction to geometric deep learning by [Amir Masood Soltani](https://github.com/a01m01s)
 - Face recognition in surveillance camera [Niloofar Alizadegan](https://www.kaggle.com/niloofaralizadegan)
 - Machine Learning Interpretation [Mohammad Amin Dadgar](https://github.com/amindadgar)
-- Image processing and its applications [Yasin Fakhar](https://github.com/yasinfakhar)
-- Natural Language Processing by [Mehdi Darooni](https://github.com/mhdi1997)
-- Sentiment analysis in NLP [Hajar Mazaheri](https://github.com/hajar817)
 
 ## Why?
 In this new era, it is important to explain the hot subjects of every science. Therefore, we're hosting an event to explain the most useful topics in AI.
