@@ -9,7 +9,7 @@
 - مهدی دارونی: پردازش زبان طبیعی
 - هاجر مظاهری: آنالیز احساسات در پردازش زبان طبیعی 
 ## زمان و مکان برگزاری
-این رویداد به صورت حضوری و مجازی - طی روزهای یکشنبه و دوشنبه در  تالار دکتر برآنی، واقع در ساختمان انصاری برگزار می‌شود. برای ثبت نام از لینک روبرو می‌توانید استفاده کنید.
+این رویداد به صورت حضوری و مجازی - طی روزهای یکشنبه و دوشنبه هشتم و نهم خردادماه در  تالار دکتر برآنی، واقع در ساختمان انصاری برگزار می‌شود. برای ثبت نام از لینک روبرو می‌توانید استفاده کنید.
 https://evand.com/events/cass-ai-day
 
 # Cassandra AI Event
@@ -34,6 +34,10 @@ This event would be located at the University of Isfahan and meanwhile we will h
 
 ## Questions?
 If you have any questions about this event and any other related things feel free to create an issue or ask in discussions.
+
+# Poster
+<p align="center"><img src="https://github.com/CASS-AI/.github/blob/main/Poster.jpg" style="width:400px; height:600px;"></p>
+
 
 <!--
 
